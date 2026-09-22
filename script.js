@@ -20,9 +20,7 @@ function resetGame() {
 //Update display
 function updateDisplay(){
   scoreDisplay.innerText = score;
-  if (score >=20) {
-    title.innerText="YOU WIN!"
-  }
+
 
 
 
